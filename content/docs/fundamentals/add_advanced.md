@@ -17,7 +17,7 @@ In this tutorial, you'll build on your understanding of AMP foundations and lear
 - Add site navigation to your page with [amp-sidebar](/docs/reference/components/amp-sidebar.html)
 - Use custom fonts in AMP
 
-## You'll build:
+## You will build:
 
 A news article page that conforms to AMP specifications and incorporates advertising, analytics, embedded video, embedded social media, carousels, and a site navigation menu.
 
